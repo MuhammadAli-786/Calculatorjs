@@ -1,0 +1,82 @@
+/* .main{
+    border: 2px solid red;
+    width: 200px;
+    margin: 0 auto;
+    
+}
+.input {
+    margin-top: 5px;
+    margin-left: 2px;
+    border: 2px;
+    height: 30px;
+    border-radius: 5px;
+    width: 95%;
+    background-color: gray;
+    color: #fff;
+}
+.button {
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: gray;
+}
+.btn{
+    width: 45px;
+    margin: 1px;
+    background-color: gray;
+} */
+
+.main {
+    border: 2px solid red;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+
+.input {
+    margin-top: 5px;
+    margin-left: 2px;
+    border: 2px solid #ccc;
+    height: 30px;
+    border-radius: 5px;
+    width: 95%;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 0 5px;
+}
+
+.button {
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+.btn {
+    width: 45px;
+    margin: 1px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
